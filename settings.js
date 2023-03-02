@@ -31,7 +31,7 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
+global.botname = "Bosilu" //namabot kalian
 global.ownername = "Bosilu" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
@@ -40,7 +40,7 @@ global.email = "bosilutech@gmail.com" //bebas
 global.region = "Srilanka" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
 global.premium = ['94752891693'] //premium user
-global.owner = ["752891693", "94752891693"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["752891693"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "752891693" // nomor wa kalian
 global.ownernomerr = "+94752891693" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
